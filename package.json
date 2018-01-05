@@ -1,0 +1,19 @@
+{
+  "name": "personal2018",
+  "version": "1.0.0",
+  "description": "Ryan Mease personal website",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Ryan Mease",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  }
+}
